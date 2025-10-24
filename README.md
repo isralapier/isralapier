@@ -1,5 +1,9 @@
-#  About Me:
-Advanced System Analityc student, from Rosario,Argentina .<br>I'm looking to colaborate on a Full-Stack Web Project . <br>I'm currently in my last year of University.<br>Contact me! 
+💡 About Me
+
+🎓 Advanced System Analyst student from Rosario, Argentina 🇦🇷
+💻 Looking to collaborate on a Full-Stack Web Project 🌐
+📘 Currently in my last year of University 🎯
+📫 Contact me! ✉️
 
 
 ## 🌐 Socials:
